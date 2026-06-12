@@ -59,19 +59,3 @@ This project was created to:
 ## 👨‍💻 Author
 
 Anish Ramchandra Gawde
-
-## 📌 GitHub Topics
-
-`python` `ipl-analysis` `data-analysis` `pandas` `numpy` `matplotlib` `cricket-analytics` `sports-analysis`
-
-
-Top IPL Run Scorers
-
-Comparison of total runs scored by leading IPL players.
-
-player	runs
-Virat Kohli	7,263
-Shikhar Dhawan	6,617
-Rohit Sharma	6,211
-David Warner	6,397
-Suresh Raina	5,528
